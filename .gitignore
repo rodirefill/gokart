@@ -1,9 +1,0 @@
-# Visual Studio Code
-.devcontainer/
-
-# macOS
-.DS_Store
-
-# Binaries
-ssa-poc
-gokart
